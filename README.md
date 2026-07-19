@@ -22,11 +22,4 @@ A production-ready, no-login personal finance tracker that runs directly on GitH
 - `Ctrl + S`: save current session
 - `Esc`: clear the transaction form
 
-## Deploy To GitHub Pages
-
-1. Push the contents of `FinanceTracker/` to a GitHub repository.
-2. In repository settings, open **Pages**.
-3. Select the branch and root folder that contains `index.html`.
-4. Save. The app will be available at the GitHub Pages URL.
-
 All user data is stored locally in the browser. There is no backend, no account system and no tracking.
